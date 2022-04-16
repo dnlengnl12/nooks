@@ -1,0 +1,25 @@
+{
+  "name": "@react-lsh-nooks/use-title",
+  "version": "1.0.2",
+  "description": "React Hook to update your document's title",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnlengnl12/nooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "title"
+  ],
+  "author": "lsh <dnlengnl12@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnlengnl12/nooks/issues"
+  },
+  "homepage": "https://github.com/dnlengnl12/nooks#readme",
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
